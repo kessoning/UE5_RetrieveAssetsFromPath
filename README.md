@@ -24,7 +24,7 @@ Unreal Engine, out of the box, doesn't offer the possibility to dynamically load
    - When using it with different versions of Unreal, you may be prompted to recompile. Click "Yes" when asked and wait for the compilation to finish.
 
 4. **Usage in Blueprint**:
-Screenshot
+![Screenshot in Blueprint Editor](https://github.com/kessoning/UE5_RetrieveAssetsFromPath/blob/main/Screenshot.png?raw=true)
 
 ## Additional Notes
 
